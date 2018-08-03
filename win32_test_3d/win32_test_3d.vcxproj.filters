@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="win32_test_3d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgCamera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgDisplay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgEluer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgFace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgLink.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgPoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgQuaternion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgTransfer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgTriangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgVector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgClip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgLight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgColor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgBmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg3D\lgTexture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lg3D\lgCamera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgDisplay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgEluer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgFace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgLine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgLink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgPlural.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgQuaternion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgTransfer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgTriangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgVector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgClip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgLight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgColor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgBmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg3D\lgTexture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
